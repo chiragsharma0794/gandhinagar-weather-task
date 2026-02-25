@@ -1,2 +1,2 @@
-# week-1
-This is a sample repo to demonstrate GitHub and repositories.
+# GandhiNagar-Weather-CRUD
+This is a file to take the average and median of GandhiNagar's weather in the last 10 days.
