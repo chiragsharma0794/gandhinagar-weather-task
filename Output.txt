@@ -1,0 +1,6 @@
+Average Temp: 35.3
+Median Temp: 35.0
+Average Humidity: 42.6
+Median Humidity: 42.5
+Average AQI: 111.3
+Median AQI: 111.0
